@@ -16,7 +16,7 @@ INFORMAR  6
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES
 
-FECHA: 06/01/2023
+FECHA: 08/01/2023
 
 
 1. OBJETIVOS
@@ -255,7 +255,7 @@ SECCIÓN 12–4 Capacitores en paralelo
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 
 
-(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
+Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
 
 ![image](https://user-images.githubusercontent.com/117738904/211071923-98bbe88d-7634-4349-81da-5c0bd50f1d87.png)
 
