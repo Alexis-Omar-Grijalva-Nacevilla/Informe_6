@@ -326,6 +326,7 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 4. VIDEO
 
+https://youtu.be/TY0gqQbWlJM
 
 5. CONCLUSIONES
 
