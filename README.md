@@ -329,6 +329,17 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 5. CONCLUSIONES
 
+•	Es importante conocer que la corriente alterna cambia de dirección en respuesta a cambios de la polaridad del voltaje de fuente
+
+•	Haber entendido que la posición angular de un fasor representa el ángulo de la onda seno con respecto a una referencia de 0°, y la longitud o magnitud de un fasor representa la amplitud.
+
+•	Se puede concluir que es necesario dominar los conceptos vistos anteriormente ya que o sirven para ir entendiendo  cómo funcionan los demás componente electrónico, en este caso  los capacitores.
+
 
 6.BIBLIOGRAFÍA 
+
+Ingenieria Mecaenix . (20 de 02 de 2019). Recuperado el 07 de 01 de 2023, de https://www.ingmecafenix.com/electronica/el-capacitor/
+
+MecatrónicaLATAM. (23 de 04 de 2021). Recuperado el 08 de 01 de 2023, de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
+
 
